@@ -1,2 +1,1 @@
 ## TODO
-## Koleszka tu był
