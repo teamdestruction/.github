@@ -1,5 +1,3 @@
-![Alt text](assets/gitbanner.svg)
-
 # Who are we?
   We are a team specializing in game development fueled by a love for
 creating immersive and engaging gaming experience
